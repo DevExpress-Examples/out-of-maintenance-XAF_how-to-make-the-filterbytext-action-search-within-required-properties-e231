@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems Id="NavigationItems">
+    <Node Id="Default" UnusableNodeName="Group" IsNewNode="True">
+      <Node Id="Person" UnusableNodeName="Item" ViewID="Person_ListView" IsNewNode="True" />
+    </Node>
+  </NavigationItems>
+</Application>
