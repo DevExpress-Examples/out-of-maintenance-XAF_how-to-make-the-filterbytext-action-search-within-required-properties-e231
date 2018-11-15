@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyFilterController.cs](./CS/HowToChangeFilterByTextAction.Module/MyFilterController.cs) (VB: [MyFilterController.vb](./VB/HowToChangeFilterByTextAction.Module/MyFilterController.vb))
+<!-- default file list end -->
 # How to: Make the FilterByText Action Search Within Required Properties
 
 
